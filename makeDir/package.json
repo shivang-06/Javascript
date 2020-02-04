@@ -1,0 +1,15 @@
+{
+  "name": "makeDir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mkdir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "makeDir": "mkdir.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
